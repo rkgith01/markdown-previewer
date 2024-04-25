@@ -3,7 +3,7 @@ import { SiBuymeacoffee, SiGithub } from "react-icons/si";
 const Header = () => {
   return (
     <header className="py-6 shadow-md">
-      <div className="container mx-auto flex justify-between items-center h-16 px-4">
+      <div className="container mx-auto flex justify-between items-center h-16 px-2">
         <a
           href="/"
           aria-label="Back to homepage"
